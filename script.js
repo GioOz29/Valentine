@@ -12,10 +12,10 @@ const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 
 // array of gifs - in order
 const gifs = [
-  "./images/Dracula-gif.gif",
-  "./images/sad1.gif",
-  "./images/sad2.gif",
-  "./images/cry.gif",
+  "images/Dracula-gif.gif",
+  "images/sad1.gif",
+  "images/sad2.gif",
+  "images/cry.gif",
 ];
 // array of messages
 const buttonMessages = [
