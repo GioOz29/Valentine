@@ -1,4 +1,4 @@
-let noClicks = 0;
+let noClicks = 1;
 const maxNoClicks = 4;
 const minNoScale = 0.65;
 let noScale = 1;
