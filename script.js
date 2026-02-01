@@ -1,9 +1,9 @@
-let noClicks = 1;
+let noClicks = 0;
 const maxNoClicks = 4;
 const minNoScale = 0.65;
 let noScale = 1;
 let yesScale = 1; // This now tracks the scaling factor directly
-const gifElement = document.getElementById("Dracula gif");
+const gifElement = document.getElementById("Dracula Gif");
 const noButton = document.getElementById("no-btn");
 const yesButton = document.getElementById("yes-btn");
 const buttonContainer = document.querySelector(".btn-container");
